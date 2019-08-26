@@ -8,3 +8,6 @@
 - added rspec gem to the gemfile (to the test & development environments)
 - bundle installed
 - used rails generator w/ rspec:install to create rspec files
+- created a branch called initialization_tests
+- wrote my first test
+- learned about rspec's ExpectationTarget & matcher
