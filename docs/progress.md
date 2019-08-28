@@ -11,3 +11,5 @@
 - created a branch called initialization_tests
 - wrote my first test
 - learned about rspec's ExpectationTarget & matcher
+- learned about what happened when executing tests (what files & dependents are run)
+- got my first test to pass
